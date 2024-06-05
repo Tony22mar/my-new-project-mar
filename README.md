@@ -1,6 +1,5 @@
 ## Summary
-## Summary
-## Summary
+The main idea of this work is present a projecto to give a solution about investment
 # Investment trends
 
 Final project for the Building AI course
