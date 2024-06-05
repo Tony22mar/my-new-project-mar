@@ -1,4 +1,4 @@
-
+## Summary
 # Investment trends
 
 Final project for the Building AI course
